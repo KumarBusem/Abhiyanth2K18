@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.events_4"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/egames_1"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="COUNTER STRIKE"
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="If is the first person shooter game in which players assume the roles of members of combating teams of the governmental counter-terrorist forces and various terrorist militants opposing them.\n
+• Each team should consists of 5 players.
+• Everyone should bring their own laptops , LAN cables and Adapters.
+• Every round consists of 3 maps of 7 minutes each. One map is decided by the organisers and the other two are decided by the opposite teams.
+• No player should play in more than 1 team.
+• In case of any issues you should follow the rules given by the organizers.
+• Entry fee Rs 50/- per team.
+"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/egames_2"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NFS"
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="It is car racing game. The game begins with you racing three other drivers around the city. After winning the game you can proceed to select a car and start your underground carrier. Now you can choose any available race. You can access the race by selecting race map. In the beginning of the game, these will be 5 races at a time however the number will go down as you advance. As you continue to win races, the difficulty level increase. However you can select how difficult you want it.The harder it is more money you earn in the game. \n
+
+rules:
+• It is a game played individually.
+• Everyone should bring their own laptops , LAN cables and Adapters.
+• Laps are selected based on their choices.
+• Entry fee Rs 30/-.
+
+"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/egames_3"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="MINI-MILITIA"
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=" • Each should consists of five players.
+• Everyone should bring their own mobiles with fully charged.
+• It consists of 3 rounds of 7 minutes each. One map is decided by the organisers and the other two are decided by the opposite teams.
+• No player should play in more than 1 team.
+"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/egames_4"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2048"
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</ScrollView>

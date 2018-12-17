@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.events_5"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Keep IT Short"
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Please read and carefully consider the following details and guidelines for the submitting your short film.
+
+Rules:
+1. All films must be made specifically for the 5-Minute Film.
+2.Films may be in regional language or English or have no dialogue at all.
+3.The entrants whose submissions are considered the most engaging, imaginative and innovative in content and delivery, will be deemed the winners.
+Note : -
+
+If the videos are copied from any source the contestent will be removed from competion with out any further intimation."/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Pics of Pyramid "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Hello Boys and Girls,
+
+Pics of Pyramid in ABHIYANTH 2K18 is an event calling Selfie QUEENS and KINGS to set a trend by your photos. This is an event which shows new faces of RGUKT.
+Feel crazy and become trendy to capture your photos. All you need to do is to upload your best picture and who knows you might just get lucky and be at the top of the pyramid.
+So get ready to expose your gorgeous and stylish faces and compete to become number "/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Photography"
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Photography is not a single moment, it is a short story. It is a passionable art. It is not just a photo it is about shaping your feeling of expression , everything and anything around you. Now, it is time to shape your creativity and focus to showcase your wonderful pics. Let us make this event more colorful with your amazing photos."/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp"
+        card_view:cardElevation="7dp"
+        card_view:contentPaddingLeft="5dp"
+        card_view:contentPaddingRight="5dp"
+        card_view:contentPaddingTop="5dp"
+        card_view:cardMaxElevation="5dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dubsmash"
+                android:textSize="18sp"
+                android:textColor="#00104b"
+                android:layout_gravity="center_horizontal" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dub smash, the magical unicorn of social media. Fortunately Abhiyanth 2K18 is conducting this popular viral sensation of our generation as a competition.
+Unmask yourselves to show the crazy you by turning up your acting skills and furthermore disclose your fond and love towards your favourite star.
+What are you waiting for, start recording videos yourselves by conforming your best-loved audio clips ranging from pop songs to famous movie lines.
+Any individual or a group of people can register.
+"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Prank videos and Spoofs "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Life is all about having fun. Many people over here who like making fun of your friends are now welcomed. Here is a chance for all of you to make prank videos in-order to bring out the entertainment within you.
+Having a good sense of humour is essential since a good laugh heals a lot of hurts. Being a prankster over and above the prey of a prank remains as a long lasting memory for every soul throughout their lives.
+Pranks are not only the kind of entertainment besides they are magical, it unveils your character even more. Get ready to feel the magic!!
+Any individual or a group of people can register.
+"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Slow Cycling "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Spot painting "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>

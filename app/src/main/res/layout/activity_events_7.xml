@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.events_7"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Treasure Hunt "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Every thing on Earth is a magic
+
+Now its time to show your magic
+
+To win magic lamp…………
+
+It is a tremendous hunt to get “TREASURE” that one or more players, who try to get their destination, by tracking the series of riddles. The clues will lead to the path of the destination to get the magic lamp which will brings you treasure. It is a damn exciting and enthusiastic hunt for everyone that participating, in this hunt we r hoping all the participants will chase all clues in a proper manner with your great thinking capability.
+
+“The box without key and an open treasure to grab”
+
+“Find the clues and solve the riddles….”
+
+“Unleash the hunter in uuu…...”
+
+“Let’s Hunt for the treasure..”"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Detective of RKV "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Achivements of RKV "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text=""/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+
+</ScrollView>

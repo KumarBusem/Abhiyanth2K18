@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.events_6"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <android.support.v7.widget.CardView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            card_view:cardElevation="7dp"
+            card_view:contentPaddingLeft="5dp"
+            card_view:contentPaddingRight="5dp"
+            card_view:contentPaddingTop="5dp"
+            card_view:cardMaxElevation="5dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Horror Room "
+                    android:textSize="18sp"
+                    android:textColor="#00104b"
+                    android:layout_gravity="center_horizontal" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="“Horror Room”, haunted carnival of ABHIYANTH 2K’18. The most anticipated event, exhilarate, thrilling and exciting escape from reality like never before. We will give you 100% assurance to experience an Adrenaline rush never ever gone throughout your life. It definitely leaves you with a remarkable and stunning memory for every soul.
+
+Undoubtedly and unquestionably worth playing. Enter into the atrocious environment and experience the stupendous galvanize feel of horridness. Have you been a fan of the ghostly atmospheres, possessed objects, demons and haunted mansions that you usually see in the modern movies and horror fiction, it is time to take it to the next level by experiencing it all in real life. It sounds good to be true right?"/>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>

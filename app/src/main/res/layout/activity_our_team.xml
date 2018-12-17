@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.OurTeam">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ABHIYANTH 2K18 TEAM"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:textSize="20dp"
+            android:textColor="#005770"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/chief"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="V Ramachandra Raju (Chief Patron)"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="08656-235501"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="vc@rgukt.in"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/patron"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="V V Basava Rao (Patron)"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="08588-283603"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="director@rguktrkv.ac.in"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/copat"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="S Amarendra Kumar (Co-Patron)"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="08588-283687"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="ao@rguktrkv.ac.in"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/convener1"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="B V Sudhakar Reddy (Convener)"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="+91 9491431726"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="sudhakar@rguktrkv.ac.in"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/conveene2"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="S Chandrasekhar (Convener)"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="8500226098"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="chandrasekhar.s@rguktrkv.ac.in"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="P S K Sandeep Kumar"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9493348587"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Sk Mohamad Gouse"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9177365780"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="D V Srinath Reddy"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9640835875"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="N Avinash"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9010114080"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="G Rajasekhar"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9491693889"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="M Ganesh"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9398533069"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Sravanthi"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="8500133262"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="D M Rafi"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9581267396"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="S Ashok"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9160967331"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="ASN Vamsi"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="8985142884"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="N Sai Pavan Kumar"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="8500048323"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Raviteja"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="7382325927"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Manikanta"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9581450901"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Kumar Busem"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="7997031858"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical">
+                <ImageView
+                    android:layout_width="70dp"
+                    android:src="@drawable/ic_person_black_24dp"
+                    android:layout_height="70dp" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_marginLeft="20dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical">
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="K Lakshmanarao"
+                        android:textColor="#666666"
+                        android:textStyle="bold"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="Student Coordinator"
+                        android:textColor="#747474"
+                        android:textSize="13sp"
+                        android:layout_height="wrap_content" />
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:text="9618749506"
+                        android:textColor="#747474"
+                        android:textSize="14sp"
+                        android:layout_height="wrap_content" />
+
+                </LinearLayout>                                  </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

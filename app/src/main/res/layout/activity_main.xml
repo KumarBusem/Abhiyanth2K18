@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.MainActivity"
+    android:orientation="vertical">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/ShowImageView"
+        android:layout_below="@+id/textview"
+        android:src="@drawable/add_photo"/>
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="38dp"
+        android:id="@+id/ButtonChooseImage"
+        android:layout_below="@+id/ShowImageView"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:textSize="16sp"
+        android:background="@drawable/edittext"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:text="Choose Image"/>
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ImageNameEditText"
+        android:layout_below="@+id/ButtonChooseImage"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:hint="Description"
+        android:gravity="center"/>
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="38dp"
+        android:id="@+id/ButtonUploadImage"
+        android:layout_below="@+id/ImageNameEditText"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/edittext"
+        android:layout_marginLeft="70dp"
+        android:layout_marginRight="70dp"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:text="Uploade"/>
+</LinearLayout>

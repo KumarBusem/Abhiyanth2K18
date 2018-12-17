@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.abhiyanth.busemkumar.abhiyanth2k18.About_abhiyanth">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="158dp"
+            android:src="@drawable/about_0"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="13dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:text="An annual techno-management cultural fest organized by IIIT RK Valley, at Kadapa comes lined up with a whole new range of innovative ideas, events and thoroughly challenging at every level promises to be bigger than before. standing true to techno fest, In the field of technology, it provokes every student to get a piece of valuable experience and practical knowledge from visiting dignitaries. A Wide range of Exciting Exhibits from all respective departments awaits your arrival. RGUKT definetly celebrating its 10 years Excellence, Abhiyanth added a whole new dimension to this."
+            android:textColor="#12333b"
+            android:textAlignment="inherit"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ABHIYANTH 2K17"
+            android:gravity="center"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:textSize="16dp"
+            android:textColor="#005770"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_1"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_21"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:layout_margin="5dp"
+            android:text="Xplode is back with a bang....... \nCelebrating the passion of RGUKT, Xplode remains and always have been a culture that you can never get enough of having fun-filled events at nights, getting high Enthusiasm at wheels and a lot more to offer at Xplode... Lets set it on fire and Bang...."
+            android:textColor="#12333b" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_2"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_3"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_41"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_40"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_4"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_5"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/about_6"/>
+
+    </LinearLayout>
+</ScrollView>
